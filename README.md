@@ -1,3 +1,3 @@
 # content-jenkins-freestyle
 My rectangle Java code
-hi gthis test
+hi gthis test okay
